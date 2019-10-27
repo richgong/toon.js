@@ -1,0 +1,25 @@
+{
+  "name": "toon",
+  "version": "0.0.1",
+  "description": "Library for making cartoons.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richgong/toon.js.git"
+  },
+  "keywords": [
+    "cartoon",
+    "animation",
+    "toon",
+    "toon.js"
+  ],
+  "author": "Richard Gong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richgong/toon.js/issues"
+  },
+  "homepage": "https://github.com/richgong/toon.js#readme"
+}
